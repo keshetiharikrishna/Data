@@ -1,0 +1,41 @@
+[
+    {
+        "category_id":1,
+        "category_name":"Topoffers",
+        "category_image":"https://i.postimg.cc/wBzVxNHx/offer-icon.png"
+       
+        
+    },
+    {
+        "category_id":2,
+        "category_name":"grocery",
+        "category_image":"https://i.postimg.cc/0ysWjF0q/grocery-icon.jpg"
+        
+    },
+    {
+        "category_id":3,
+        "category_name":"Mobiles",
+        "category_image":"https://i.postimg.cc/GpJ19vyX/mobile.jpg"
+
+    },
+    {
+        "category_id":4,
+        "category_name":"Fashion",
+        "category_image":"https://i.postimg.cc/MHt7G36z/fashion.jpg"
+    },
+    {
+        "category_id":5,
+        "category_name":"eletronics",
+        "category_image":"https://i.postimg.cc/XY5rH1RX/electronics.png"
+    },
+    {
+        "category_id":6,
+        "category_name":"Home",
+        "category_image":"https://i.postimg.cc/XY5rH1RX/electronics.png"
+    },
+    {
+        "category_id":7,
+        "category_name":"Appliences",
+        "category_image":"https://i.postimg.cc/k4knr73S/appliences.jpg"
+    }
+]

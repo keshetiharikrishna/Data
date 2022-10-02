@@ -1,0 +1,66 @@
+[
+    {   
+        "category_id":2,
+        "category_name":"grocery",
+        "image": "https://i.postimg.cc/gJSxxxX6/shamppo.webp",
+        "brand": "TRESemme Keratin Smooth Shampoo  (580 ml)",
+        "description": "Flaunt your fabulous, shiny, smooth, and luscious hair every single day by using the TRESemme Keratin Smooth shampoo",
+        "new_price": 189,
+        "old_price": 150,
+        "discount": 52,
+        "delivery_type": "Free delivery",
+        "hidden_stars": 4.4,
+        "item_id": 1
+    },
+    {
+        "category_id":2,
+        "category_name":"grocery",
+        "image": "https://i.ibb.co/FwhPZx0/2a303a406383.jpg",
+        "brand": "Kwality Original Corn Flakes Pouch  (800 g)",
+        "description": "Corn",
+        "new_price": 180,
+        "old_price": 200,
+        "discount": 68,
+        "delivery_type": "Free delivery",
+        "hidden_stars": 4.3,
+        "item_id": 2
+    },
+    {
+        "category_id":2,
+        "category_name":"grocery",
+        "image": "https://i.postimg.cc/nV3K612p/oil.webp",
+        "brand": "Fortune Refined Soyabean Oil Pouch  (1 L)",
+        "description": "Fortune soya health is certified as India�s No. 1 cooking oil brand.",
+        "new_price": 150,
+        "old_price": 120
+        "discount": 64,
+        "delivery_type": "Free delivery",
+        "hidden_stars": 3.6,
+        "item_id": 3
+    },
+    {
+        "category_id":2,
+        "category_name":"grocery",
+        "image": "https://i.postimg.cc/rwZwTKbd/chill-powder.webp",
+        "brand": "AASHIRVAAD Chilli Powder  (200 g)",
+        "description": "Natural chilli Powder",
+        "new_price": 150,
+        "old_price": 200,
+        "discount": 54,
+        "delivery_type": "Free delivery",
+        "hidden_stars": 3.6,
+        "item_id": 4
+    },
+    {
+        "category_id":2,
+        "category_name":"grocery",
+        "image": "https://i.postimg.cc/XYLQY0cB/fair-and-some.webp",
+        "description": "Fair & Handsome Fair and Handsome Fairness Cream(60G)",
+        "new_price":99
+        "old_price": 120,
+        "discount": 20,
+        "delivery_type": "Free delivery",
+        "hidden_stars": 4,
+        "item_id": 5
+    },
+]
